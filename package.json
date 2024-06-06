@@ -1,6 +1,6 @@
 {
   "name": "@davetheitguy/markdown-formatter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "dependencies": {
     "eslint": "9.x",
