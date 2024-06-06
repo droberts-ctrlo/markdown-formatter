@@ -3,12 +3,12 @@
   "version": "1.0.6",
   "license": "MIT",
   "dependencies": {
-    "eslint": "9.x",
     "marked": "^12.0.2"
   },
   "module": "./dist/markdown-formatter.js",
   "types": "./dist/markdown-formatter.d.ts",
   "devDependencies": {
+    "eslint": "9.x",
     "@babel/core": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
     "@babel/preset-typescript": "^7.24.7",
@@ -24,7 +24,8 @@
   },
   "scripts": {
     "test": "jest",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "prepublish": "tsc"
   },
   "type": "module"
 }
