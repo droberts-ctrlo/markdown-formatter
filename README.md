@@ -1,4 +1,4 @@
-# Markdown Formatter
+# Markdown Formatter [![JS Tests](https://github.com/droberts-ctrlo/markdown-formatter/actions/workflows/tests.yml/badge.svg)](https://github.com/droberts-ctrlo/markdown-formatter/actions/workflows/tests.yml)
 
 This is a simple markdown formatter that will format your template strings to a standard format.
 
