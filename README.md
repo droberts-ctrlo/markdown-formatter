@@ -20,7 +20,3 @@ This is a template string that will be formatted to a standard markdown format.`
 <h1>Heading!</h1>
 <p>This is a template string that will be formatted to a standard Markdown format.</p>
 ```
-
-## Testing
-
-Jest testing has been removed due to an issue with JEST and ESM, although unit tests do exist

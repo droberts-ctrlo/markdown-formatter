@@ -1,5 +1,5 @@
+import { describe, it, expect } from 'vitest';
 import { Markdown } from './markdown-formatter';
-import { describe, it, expect } from '@jest/globals';
 
 describe('Markdown Formatter', () => {
   it('should return an empty string', () => {
